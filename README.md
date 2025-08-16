@@ -3,6 +3,7 @@ Sou estudante de tecnologia na Unipê e profissional de Quality Assurance (QA). 
 🎓 Formação:  Sistema de Informação - UFPB 
               Analise e Desenvolvimento de Sistemas - UNIPÊ
               Cybersecurity - UNIPÊ
+
 💼 Área atual: Quality Assurance (QA)
 
 💻 Freelancer: Inteligência Artificial e Programação
