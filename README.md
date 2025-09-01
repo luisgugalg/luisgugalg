@@ -6,7 +6,7 @@ Sou estudante de tecnologia na Unipê e profissional de Quality Assurance (QA). 
 
 💼 Área atual: Quality Assurance (QA)
 
-💻 Freelancer: Inteligência Artificial e Programação
+💻 Freelancer: Inteligência Artificial e Programação (Python)
 
 🌱 Atualmente aprendendo: Java e PHP
 
